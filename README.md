@@ -7,5 +7,5 @@ Install InstantEating by dropping it into `.minecraft/mods`. Requires Minecraft 
 * [Download latest release][lat]
 * [See all releases][all]
 
-[lat]: https://github.com/jocap/instanteating/releases/latest/download/instanteating-1.0.jar
+[lat]: https://github.com/jocap/instanteating/releases/latest
 [all]: https://github.com/jocap/instanteating/releases
