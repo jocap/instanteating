@@ -16,7 +16,7 @@ version="1.0" #mandatory
  # A display name for the mod
 displayName="Instant Eating" #mandatory
 # A URL for the "homepage" for this mod, displayed in the mod UI
-displayURL="http://john.ankarstrom.se/software/instanteating" #optional
+displayURL="https://github.com/jocap/instanteating" #optional
 # A text field displayed in the mod UI
 authors="John Ankarstroem" #optional
 # The description text for the mod (multi line!) (#mandatory)
