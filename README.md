@@ -2,7 +2,7 @@
 
 Unlike some other mods that offer "instant eating", it does not change the hunger mechanics in any way. In other words, it does not revert to the old eating mechanics, where eating restored hearts. Eating works as in vanilla, with the sole exception that the animation is skipped.
 
-Install InstantEating by dropping it into `.minecraft/mods`. Requires Minecraft Forge.
+Install InstantEating by dropping it into `.minecraft/mods`. Requires Minecraft Forge for Minecraft 1.14.
 
 * [Download latest release][lat]
 * [See all releases][all]
